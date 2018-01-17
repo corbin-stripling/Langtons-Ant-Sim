@@ -10,6 +10,13 @@ after about 10,000 moves. More info at: https://en.wikipedia.org/wiki/Langton%27
 
 This was writen in VIM using Red Hat Linux command line interface.
 
+Showcased C++ skills:
+* Memory Management
+* Object Oriented Design
+* Using Pointer to manage data in multidimensional arrays(I prefer vectors, but they were not allowed)
+* Modular programming of input validation and menu
+* Converting hand written algorithm designs to C++ 
+
 To run:
 1. Download the ALL files for the sim.
 2. In your Linux command line navigate to the file folder.
